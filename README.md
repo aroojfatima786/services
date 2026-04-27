@@ -15,7 +15,7 @@ git pull origin main
 
 ---
 
-## 🌿 2. Create a New Branch
+##  2. Create a New Branch
 
 After pulling the latest code, create a new branch for your task.
 
@@ -40,7 +40,7 @@ git checkout -b type/task-name
 
 ---
 
-## 🛠️ 3. Work on Feature
+##  3. Work on Feature
 
 - Work only inside your branch  
 - Keep changes clean and focused  
@@ -56,11 +56,11 @@ git checkout -b type/task-name
 git commit -m "type: short message"
 ```
 
-### 🧠 Types
+###  Types
 
 `feat` | `fix` | `refactor` | `docs` | `style` | `test` | `chore`
 
-### 💡 Examples
+###  Examples
 
 ```bash
 git commit -m "feat: add login api"
@@ -132,7 +132,7 @@ Start Work → Pull Latest Code → Create Branch → Work → Commit → Push �
 
 ## ⚡ Important Notes
 
-- 🚫 Never commit directly to `main`  
-- 🌿 Always use feature branches  
-- ✨ Keep commits clean  
-- 🤝 Follow same workflow across team  
+- Never commit directly to `main`  
+- Always use feature branches  
+- Keep commits clean  
+- Follow same workflow across team  
